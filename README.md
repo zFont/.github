@@ -1,6 +1,6 @@
 # zFont 3
 
-<img src="https://play-lh.googleusercontent.com/bAqDXiUoIxz6LxtbGI8FNbF7x57dgMW8e17lo4SbPtcOwZib4NOR_Jeln5v8OtRPT3U=w480-h960-rw" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="200" />
+<img src="https://play-lh.googleusercontent.com/bAqDXiUoIxz6LxtbGI8FNbF7x57dgMW8e17lo4SbPtcOwZib4NOR_Jeln5v8OtRPT3U=w480-h960-rw" width="200" height="200" />
 
 [![](https://img.shields.io/badge/zFont%203-v3.7.2-02C854?style=for-the-badge&logo=android)](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)
 [![](https://img.shields.io/badge/Downloads-50M%2B-02C854?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)
