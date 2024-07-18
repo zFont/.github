@@ -53,17 +53,18 @@
 
 ## Rooted users #️⃣
 Systemless font modules created with this app are compatible with:
-- Magisk
-- KernelSU
-- APatch
+- [Magisk](https://github.com/topjohnwu/Magisk)
+- [KernelSU](https://github.com/tiann/KernelSU)
+- [APatch](https://github.com/bmax121/APatch)
 
 ## Are there any extra features?
 
  Easily download tons of free emojis and fonts.
-- Easily download fonts from sources like Google Fonts, DaFont, etc.
+- Easily download fonts from sources like [Google Fonts](https://fonts.google.com/), [DaFont](https://www.dafont.com/), [Font Squirrel](https://www.fontsquirrel.com/), [1001 Fonts](https://www.1001fonts.com/), [FontSpace](https://www.fontspace.com/), [FontM](https://fontm.com/), [FFonts](https://www.ffonts.net/)
 - Import emojis and fonts from any source.
 - Use downloaded fonts in your favorite design and video editing apps.
 
 ## Reach out
-- [Telegram Channel](https://t.me/zFontApp)
 - [Telegram Group](https://t.me/zFontUserGroup)
+- [Telegram Channel](https://t.me/zFontApp)
+- [Facebook](https://www.facebook.com/zFontApp/)
