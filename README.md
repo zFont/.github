@@ -1,6 +1,6 @@
 # zFont 3
 
-![zFont](https://play-lh.googleusercontent.com/bAqDXiUoIxz6LxtbGI8FNbF7x57dgMW8e17lo4SbPtcOwZib4NOR_Jeln5v8OtRPT3U=w480-h960-rw =200x200)
+![zFont](https://play-lh.googleusercontent.com/bAqDXiUoIxz6LxtbGI8FNbF7x57dgMW8e17lo4SbPtcOwZib4NOR_Jeln5v8OtRPT3U=w480-h960-rw)
 
 [![](https://img.shields.io/badge/zFont%203-v3.7.2-02C854?style=for-the-badge&logo=android)](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)
 
