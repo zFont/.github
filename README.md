@@ -3,9 +3,9 @@
 ![zFont](https://play-lh.googleusercontent.com/bAqDXiUoIxz6LxtbGI8FNbF7x57dgMW8e17lo4SbPtcOwZib4NOR_Jeln5v8OtRPT3U=w480-h960-rw)
 
 [![](https://img.shields.io/badge/zFont%203-v3.7.2-02C854?style=for-the-badge&logo=android)](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)
-
 [![](https://img.shields.io/badge/Downloads-50M%2B-02C854?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)
 
+# Hello
 💜 Free Emoji, Cool, Stylish, and Font Changer for Android! Change custom font styles on Samsung, Vivo, iQOO, LG, Huawei, Honor, OnePlus, ASUS, OPPO, Realme, Xiaomi, Tecno, and Infinix devices without ROOT ⚡ If you have ROOT (Magisk, KernelSU, APatch), you can create a systemless flashable font module with this app to change system-wide emojis and fonts 😉
 
 ## Samsung
