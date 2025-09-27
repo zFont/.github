@@ -1,15 +1,12 @@
-
 <p align="center">
-
 <img src="ic_launcher.webp">
-
 </p>
+
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.htetznaing.zfont2" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FzFont%2Fzfont.github.io%2Frefs%2Fheads%2Fmain%2Fplay-report.json&query=total_downloads_formatted&style=for-the-badge&logo=googleplay&label=Downloads&color=02C854
-"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.htetznaing.zfont2" target="_blank">
+  <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FzFont%2Fzfont.github.io%2Frefs%2Fheads%2Fmain%2Fplay-report.json&query=total_downloads_formatted&style=for-the-badge&logo=googleplay&label=Downloads&color=02C854">
+  </a>
 </p>
-
-  
 
 #  zFont 3
 
