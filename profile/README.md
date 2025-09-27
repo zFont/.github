@@ -1,5 +1,5 @@
 <p align="center">
-<img src="ic_launcher.webp">
+<img src="https://cdn.jsdelivr.net/gh/zFont/.github@main/profile/ic_launcher.webp">
 </p>
 
 <p align="center">
