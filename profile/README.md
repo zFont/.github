@@ -10,7 +10,7 @@
 
 #  zFont 3
 
-💜 Free Emoji, Cool, Stylish, and Font Changer for Android! Change custom font styles on Samsung, Vivo, iQOO, LG, Huawei, Honor, OnePlus, ASUS, OPPO, Realme, Xiaomi, Tecno, and Infinix devices without ROOT ⚡ If you have ROOT (Magisk, KernelSU, APatch), you can create a systemless flashable font module with this app to change system-wide emojis and fonts 😉
+💜 Free Emoji, Cool, Stylish Font Changer for Android! Customize font styles on Samsung, Vivo, iQOO, LG, Huawei, Honor, OnePlus, ASUS, OPPO, Realme, Xiaomi, Tecno, and Infinix devices without ROOT ⚡ For ROOT users (Magisk, KernelSU, APatch), create systemless flashable font modules to change system-wide emojis and fonts 😉
 
   
 
